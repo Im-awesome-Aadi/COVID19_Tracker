@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "939130931748",
+    "firebase_url": "https://updater-25047.firebaseio.com",
+    "project_id": "updater-25047",
+    "storage_bucket": "updater-25047.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939130931748:android:102947256447c02e3626b1",
+        "android_client_info": {
+          "package_name": "com.aditya25dev.updater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939130931748-jmjf65p0q8ocjqkd7c7h818ep04oaaou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaUVGNBRXQqRPhT-W2f1Oquhso7qFu3sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939130931748-jmjf65p0q8ocjqkd7c7h818ep04oaaou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
