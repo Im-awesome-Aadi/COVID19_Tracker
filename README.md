@@ -2,6 +2,7 @@
 A flutter application which gives the update regarding the current corona cases (recovered,deaths,total,active) across the gobal and country wise.
 
 Download the app from [here](https://github.com/Im-awesome-Aadi/COVID19_Tracker/raw/master/corona.apk).
+<br>
 **Hope you guys will like this app ! Show some ❤️ and star the repo to support the project !**
 <br>
 ## Screenshots
